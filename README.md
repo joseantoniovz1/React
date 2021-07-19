@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is for Front-End Web Development with React course.
+This project is for Front-End Web Development with React course
 
 ## Available Scripts
 
