@@ -65,7 +65,6 @@ const DishDetail = (props) => {
       return (<div></div>);
     }
 
-
     return (
       <div className="container">
         <div className="row">
